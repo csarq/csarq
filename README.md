@@ -17,10 +17,15 @@ P.S. Tea lovers welcome too! 🍵
 ***
 🌱 I’m currently working through these courses:
 
-[Modern PHP: The Complete Guide](https://www.udemy.com/course/modern-php/learn/)  
-[UX/UI Web Design using Adobe XD](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/learn/)  
-[Playwright from Zero to Hero](https://www.udemy.com/course/playwright-from-zero-to-hero/learn/)  
-[Creating Accessible Websites](https://www.udemy.com/course/creating-accessible-websites/learn/)
+- [Modern PHP: The Complete Guide](https://www.udemy.com/course/modern-php/learn/)  
+- [UX/UI Web Design using Adobe XD](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/learn/)  
+- [Playwright from Zero to Hero](https://www.udemy.com/course/playwright-from-zero-to-hero/learn/)  
+
+***
+☑️ Post-bootcamp Completed courses & tutorials:  
+
+- [Aprende PHP 8 desde cero: Curso para principiantes + Aplicación con Deploy](https://youtu.be/BcGAPkjt_IE?si=Qj6f5YXFupBNajZz)
+- [Web Design Accessibility Certificate](https://www.udemy.com/certificate/UC-a794dfd1-6f13-49de-894d-57155c2d0041/)
 
 ***
 
