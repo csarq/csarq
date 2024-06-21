@@ -1,4 +1,22 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=☕%20brewing%20my%20future%20in%20code&fontSize=50)
+
+Yes, I love a good cup of coffee ☕ ... but lately, I've been obsessed with a new question: 'What can I learn today to bring me one step closer to my dream job as a developer?' 🤔🚀
+
+As a lifelong lover of languages, I'm fascinated by phonetics, writing systems, and now, the languages of the web! 💻
+
+I've always enjoyed the challenge of making things better, whether it's proofreading a manuscript 📝, ensuring foreign scripts are typeset on a page correctly 🔤, or helping non-native speakers improve their English 🗣️. But lately, I've been dreaming bigger. What if I could design interactive apps? 🤔 Or even create tools that empower others? 💪
+
+That's why I took the leap into coding 👩‍💻. Now, my days are filled with learning new languages, connecting the dots between tech concepts, and imagining all the incredible things I'll be able to create. 
+
+I am just a coder-in-training 🌱, but I'm excited to combine my love of language with this newfound passion.  
+
+So let's connect over a virtual americano ☕ and chat about all the possibilities that await as I brew my future in code! 😊
+
+P.S. Tea lovers welcome too! 🍵
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csarq&layout=compact&theme=panda)
+
+
 
 <!--
 **csarq/csarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +29,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
