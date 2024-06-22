@@ -16,8 +16,7 @@ P.S. Tea lovers welcome too! 🍵
 
 ***
 🌱 I’m currently working through these courses:
-
-- [Modern PHP: The Complete Guide](https://www.udemy.com/course/modern-php/learn/)  
+ 
 - [UX/UI Web Design using Adobe XD](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/learn/)  
 - [Playwright from Zero to Hero](https://www.udemy.com/course/playwright-from-zero-to-hero/learn/)  
 
