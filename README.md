@@ -6,7 +6,7 @@ As a lifelong lover of languages, I'm fascinated by phonetics, writing systems, 
 
 I've always enjoyed the challenge of making things better, whether it's proofreading a manuscript 📝, ensuring foreign scripts are typeset on a page correctly 🔤, or helping non-native speakers improve their English 🗣️. But lately, I've been dreaming bigger. What if I could design interactive apps? 🤔 Or even create tools that empower others? 💪
 
-That's why I took the leap into coding 👩‍💻. Now, my days are filled with learning new languages, connecting the dots between tech concepts, and imagining all the incredible things I'll be able to create. 
+That's why I took the leap into coding 👩‍💻. Now, my days are filled with learning more languages, connecting the dots between tech concepts, and imagining all the incredible things I'll be able to create. 
 
 I am just a coder-in-training 🌱, but I'm excited to combine my love of language with this newfound passion.  
 
