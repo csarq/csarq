@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=☕%20brewing%20my%20future%20in%20code&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&height=150&customColorList=2,12,19,22&text=☕%20brewing%20my-nl-%20future%20in%20code&animation=fadeIn&textBg=false&fontSize=50&fontAlign=50&fontColor=002366)
 
 Yes, I love a good cup of coffee ☕ ... but lately, I've been obsessed with a new question: 'What can I learn today to bring me one step closer to my dream job as a developer?' 🤔🚀
 
