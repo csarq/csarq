@@ -10,7 +10,7 @@ That's why I took the leap into coding 👩‍💻. Now, my days are filled with
 
 I am just a coder-in-training 🌱, but I'm excited to combine my love of language with this newfound passion.  
 
-So let's connect over a virtual americano ☕ and chat about all the possibilities that await as I brew my future in code! 😊
+So let's connect over a virtual americano ☕ and chat about your experience in tech as I brew my future in code! 😊
 
 P.S. Tea lovers welcome too! 🍵
 
