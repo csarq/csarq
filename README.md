@@ -23,6 +23,8 @@ P.S. Tea lovers welcome too! 🍵
 ***
 ☑️ Post-bootcamp Completed courses & tutorials:  
 
+- [Web Development with HTML, CSS, JavaScript Essentials](https://www.credly.com/badges/d13d48dd-63ac-481b-a507-6a0e401485ce/public_url)
+
 - [Aprende PHP 8 desde cero: Curso para principiantes + Aplicación con Deploy](https://youtu.be/BcGAPkjt_IE?si=Qj6f5YXFupBNajZz)
 - [Web Design Accessibility Certificate](https://www.udemy.com/certificate/UC-a794dfd1-6f13-49de-894d-57155c2d0041/)
 
